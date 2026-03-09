@@ -1,0 +1,9 @@
+title: Linqi Zhang
+logo: /assets/img/room3.jpg
+description:
+show_downloads: false
+google_analytics:
+theme: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
