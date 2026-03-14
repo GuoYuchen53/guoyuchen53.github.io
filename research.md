@@ -2,45 +2,6 @@
 layout: research
 ---
 
-## Working Papers
-
-
-["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)].   
-Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometrics Class of 2024 Conference   
-<details>
-<summary><u>Abstract</u></summary> 
-<p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
-</p>
-</details>
- 
-
-["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
-*Revision Requested, Journal of Health Economics*
-<details>
-<summary><u>Abstract</u></summary> 
-<p> Using a novel dataset that includes at-home and away-from-home food purchases, we study who is affected by soda taxes. We nonparametrically estimate a random coefficient nested logit model to exploit the rich heterogeneity in preferences and price elasticities across households, including SNAP participants and non-SNAP-participant poor. By simulating its impacts, we find that soda taxes are less effective away-from-home while more effective at-home, especially by targeting the total sugar intake of the poor, those with high total dietary sugar, and households without children. Our results suggest that ignoring either segment can lead to biased policy implications.
-</p>
-</details>
-
-
-["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
-<details>
-<summary><u>Abstract</u></summary> 
-<p> We extend the linear triangular structural model considered in Lewbel, Schennach, and Zhang (2024) to allow for measurement errors in the endogenous regressor. We show identification of the causal effect and distributions of unobservables using higher-order moments of variables when instrumental variables or repeated measurements are not available. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. We find evidence of monopsony, with the exploitation rate -- a common measure of monopsony power -- robustly estimated at 36%. Our analysis shows that ignoring measurement error would significantly underestimate monopsony power.
-</p>
-</details>
-
-
-<!-- "Demand Estimation without Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
-<details>
-<summary><u>Abstract</u></summary> 
-<p> The BLP model is the workhorse framework in empirical IO and enables estimation of demand models for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unobserved. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive sharp identified sets for structural parameters and equilibrium objects. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and equilibrium objects.
-</p>
-</details> -->
-
-
----
-
 ## Publications
 
 ["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/ksa771xhunf6ympnx9tzb/MicroMoments.pdf?rlkey=x0y3dreuok36z44581lb87cyk&e=1&st=tn0qvsce&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
@@ -80,6 +41,44 @@ conditions for identification and derived associated moment conditions. The esti
 <p> We show that a standard linear triangular two equation system can be point identified, without the use of instruments or any other side information. We find that the only case where the model is not point identified is when a latent variable that causes endogeneity is normally distributed. In this non-identified case, we derive the sharp identified set. We apply our results to Acemoglu and Johnson’s (2007) model of life expectancy and GDP, obtaining point identification and comparable estimates to theirs, without using their (or any other) instrument.
 </p>
 </details>
+
+
+---
+## Working Papers
+
+
+["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)].   
+Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometrics Class of 2024 Conference   
+<details>
+<summary><u>Abstract</u></summary> 
+<p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
+</p>
+</details>
+ 
+
+["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
+*Revision Requested, Journal of Health Economics*
+<details>
+<summary><u>Abstract</u></summary> 
+<p> Using a novel dataset that includes at-home and away-from-home food purchases, we study who is affected by soda taxes. We nonparametrically estimate a random coefficient nested logit model to exploit the rich heterogeneity in preferences and price elasticities across households, including SNAP participants and non-SNAP-participant poor. By simulating its impacts, we find that soda taxes are less effective away-from-home while more effective at-home, especially by targeting the total sugar intake of the poor, those with high total dietary sugar, and households without children. Our results suggest that ignoring either segment can lead to biased policy implications.
+</p>
+</details>
+
+
+["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
+<details>
+<summary><u>Abstract</u></summary> 
+<p> We extend the linear triangular structural model considered in Lewbel, Schennach, and Zhang (2024) to allow for measurement errors in the endogenous regressor. We show identification of the causal effect and distributions of unobservables using higher-order moments of variables when instrumental variables or repeated measurements are not available. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. We find evidence of monopsony, with the exploitation rate -- a common measure of monopsony power -- robustly estimated at 36%. Our analysis shows that ignoring measurement error would significantly underestimate monopsony power.
+</p>
+</details>
+
+
+<!-- "Demand Estimation without Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
+<details>
+<summary><u>Abstract</u></summary> 
+<p> The BLP model is the workhorse framework in empirical IO and enables estimation of demand models for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unobserved. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive sharp identified sets for structural parameters and equilibrium objects. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and equilibrium objects.
+</p>
+</details> -->
 
 ---
 
