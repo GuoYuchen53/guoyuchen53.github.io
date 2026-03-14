@@ -5,7 +5,7 @@ layout: research
 ## Publications
 
 **The Digital Economy （Digital Governance） under Big Data Applications**
-
+<br><br>
 ["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and Yadi Liu.
 *PNAS Nexus*, 2025
 <details>
@@ -38,9 +38,9 @@ moderating efect of local leaders’ personal characteristics and fnd that the a
 
 ["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Yulan Zhao.   
 *复旦公共行政评论*, 2025.  
-
+<br><br>
 **The Government Behavior under Big Data Applications**  
-
+<br><br>
 ["Budget rollover and year-end spending in China: evidence from public procurement contracts",](https://www.dropbox.com/scl/fi/h8k3piceioi4oj0wvwjf5/CER.pdf?rlkey=7ttnknd9bvzok0hc9bozsm046&st=mxfkpov0&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
 *China Economic Review*, 2025
 <details>
@@ -66,9 +66,9 @@ concentrate on goods and construction projects procurement, high-value contracts
 ["我国政府采购支出质量的评价及影响因素研究———基于政府采购信息披露质量的视角",](https://www.dropbox.com/scl/fi/y3l2ysna0nb82wwpxcplj/_.pdf?rlkey=9fuyszwob4h6e7bclrhml3c5i&st=4casb9b2&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).   
 *宏观质量研究*, 2025.  
 
-
+<br><br>
 **Behavioral Economics**  
-
+<br><br>
 ["How people respond to risk after being exposed to the risk of loss: An experimental study",](https://www.dropbox.com/scl/fi/kos2m9t79x1fs02k5eqcm/JBEE.pdf?rlkey=fvdeorjddb6xlyp5fmho6v0gm&st=18xh9o0n&dl=0) with [Zhiqiang Dong](https://faculty.scnu.edu.cn/dongzhiqiang) and Jun Zhao.
 *Journal of Behavioral and Experimental Economics*, 2022
 <details>
