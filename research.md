@@ -39,6 +39,73 @@ moderating efect of local leaders’ personal characteristics and fnd that the a
 ["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Yulan Zhao].   
 *复旦公共行政评论*, 2025.
 
+**The Government Behavior under Big Data Applications**
+
+["Budget rollover and year-end spending in China: evidence from public procurement contracts",](https://www.dropbox.com/scl/fi/h8k3piceioi4oj0wvwjf5/CER.pdf?rlkey=7ttnknd9bvzok0hc9bozsm046&st=mxfkpov0&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
+*China Economic Review*, 2025
+<details>
+<summary><u>Abstract</u></summary> 
+<p> This paper exploits the reform of China’s Budget Law, which restricts the rollover of fiscal surplus across years, to examines the impact of UILI (use-it-or-lose-it) budget rules on year-end spending spikes. We analyze the universe of public procurement contracts from 2014 to 2021 and develop a method to assess contract quality. We show substantial surges in procurement contracts at the end of the year, which are more likely to be of low quality. The difference-in-difference model indicates that after the reform, local governments award 25.8 % more procurement contracts and double spending on procurement in the last month of the year. The year-end spending surges 
+concentrate on goods and construction projects procurement, high-value contracts, and favor local suppliers. It is likely that UILI rules intensify budgetary uncertainty embedded in hierarchical allocation of fiscal fund.
+</p>
+</details>
+
+["社会与政府协同推动政府采购质量提升——基于政府采购协会成立的视角",] with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
+*经济学（季刊）*, 录用
+<details>
+<summary><u>Abstract</u></summary> 
+<p> Effective government–society interactions can improve the quality of public spending. Using more than 13 million government procurement announcements from the China Government Procurement Network, this paper examines the impact of the establishment of government procurement associations on procurement quality. We find that the formation of such associations significantly improves the quality of government procurement. This effect is more pronounced in regions with weaker social capital and lower fiscal transparency. The mechanism analysis shows that procurement associations enhance procurement quality by establishing industry standards that reduce irregularities and by facilitating communication and information coordination between buyers and suppliers. In addition, procurement associations significantly increase market competition and promote cross-regional procurement. These effects contribute to the integration of procurement markets and support the development of a unified national market.
+</p>
+</details>
+
+
+["中国政府采购公告数据的使用和潜在问题",](https://www.dropbox.com/scl/fi/9cskd6h0j9d432v2wh44b/_.pdf?rlkey=164kwgkfzy7i64l5dizp68sd6&st=b0b0fejg&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).   
+*产业经济评论*, 2023.
+
+
+["我国政府采购支出质量的评价及影响因素研究———基于政府采购信息披露质量的视角",](https://www.dropbox.com/scl/fi/y3l2ysna0nb82wwpxcplj/_.pdf?rlkey=9fuyszwob4h6e7bclrhml3c5i&st=4casb9b2&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).   
+*宏观质量研究*, 2025.
+
+
+**Behavioral Economics**
+["How people respond to risk after being exposed to the risk of loss: An experimental study",](https://www.dropbox.com/scl/fi/kos2m9t79x1fs02k5eqcm/JBEE.pdf?rlkey=fvdeorjddb6xlyp5fmho6v0gm&st=18xh9o0n&dl=0) with [Zhiqiang Dong](https://faculty.scnu.edu.cn/dongzhiqiang) and Jun Zhao.
+*Journal of Behavioral and Experimental Economics*, 2022
+<details>
+<summary><u>Abstract</u></summary> 
+<p> This paper exploits the reform of China’s Budget Law, which restricts the rollover of fiscal surplus across years, to examines the impact of UILI (use-it-or-lose-it) budget rules on year-end spending spikes. We analyze the universe of public procurement contracts from 2014 to 2021 and develop a method to assess contract quality. We show substantial surges in procurement contracts at the end of the year, which are more likely to be of low quality. The difference-in-difference model indicates that after the reform, local governments award 25.8 % more procurement contracts and double spending on procurement in the last month of the year. The year-end spending surges 
+concentrate on goods and construction projects procurement, high-value contracts, and favor local suppliers. It is likely that UILI rules intensify budgetary uncertainty embedded in hierarchical allocation of fiscal fund.
+</p>
+</details>
+
+
+["Higher risk exposure in gains brings more risktaking in losses: an experimental study",](https://www.dropbox.com/scl/fi/dnu4fnly1zvu0dxed8vji/Higher-risk-exposure-in-gains-brings-more-risk-taking-in-losses-an-experimental-study.pdf?rlkey=niofedafuq8qpctoghbuhx70v&st=7gzvmocr&dl=0) with [Zhiqiang Dong](https://faculty.scnu.edu.cn/dongzhiqiang) and Jun Zhao.
+*Applied Economics Letters*, 2023
+<details>
+<summary><u>Abstract</u></summary> 
+<p> Past experiences play a key role in shaping risk preferences. Several experimental studies have found that the impact of antecedent risk exposure on subsequent risk-taking behaviour varies across domains, but a gap still exists in the literature with respect to how this dynamic is shaped by gains and losses. This paper experimentally reveals that exposure to a higher level of risk in the gain domain makes individuals more risk-taking in the subsequent loss domain and vice versa.
+</p>
+</details>
+
+
+["Are proactive employees more creative? The roles of multisource information exchange and social exchange-based employee-organization relationships",](https://www.dropbox.com/scl/fi/7rwxipnaji71rrmxwfoe9/PID.pdf?rlkey=tegv1nw068774ihy3kjk63ui7&st=37dmyaow&dl=0) with [Xi Li] and Aishi Zhang.
+*Personality and Individual Differences*, 2021
+<details>
+<summary><u>Abstract</u></summary> 
+<p> This study integrated personal characteristics and social perspectives on employee creativity and employed a moderated mediation model to examine the relationships among proactive personality, multisource information exchange, and employee creativity in the context of social exchange-based employee-organization relationships 
+(EORs). Data were collected from 509 employees and their direct supervisors within a large Chinese company. The results indicate that multisource information exchange partially mediates the positive association between proactive personality and employee creativity. Furthermore, in social exchange-based EORs, proactive employees are more likely to engage in multisource information exchange activities with internal and external stakeholders and to subsequently generate more creative ideas. The
+ theoretical and practical implications of the findings are discussed.
+</p>
+</details>
+
+
+["Causal Role of the Right Dorsolateral Prefrontal Cortex in Organizational Fairness Perception: Evidence From a Transcranial Direct Current Stimulation Study",](https://www.dropbox.com/scl/fi/7o3qk5g68jl1g7gk4ttvj/Frontiers-in-Behavioral-Neuroscience.pdf?rlkey=pdv9q8i1hvkx0zdsv61miuana&st=8g86qwzu&dl=0) with Xi Li, Guanxing Xiong, [Zhiqiang Dong](https://faculty.scnu.edu.cn/dongzhiqiang), Shenggang Cai, Jun Zhao and Zhe She.
+*Frontiers in Behavioral Neuroscience*, 2020
+<details>
+<summary><u>Abstract</u></summary> 
+<p> The right dorsolateral prefrontal cortex (rDLPFC) plays an essential role in social decisionmaking. Although several neural imaging studies have provided evidence that the rDLPFC is correlated with fairness perception, little research has investigated the causal effect of this encephalic region on individuals’ consciousness, particularly perceptions of organizational fairness. The present study explores the causal relationship between the rDLPFC and organizational fairness perception by using brain modulation techniques. Healthy participants received transcranial direct current stimulation (tDCS) and fulfilled the modified ultimatum game (UG) in the sham-controlled experiment. Our results showed that only cathodal stimulation of the rDLPFC resulted in increasing rejection offers compared with the sham stimulation in conditions of disadvantageous inequity. No differences were found between the anodal and sham stimulation in any inequity condition. This study strengthens the main functional effects of the rDLPFC in negative emotional control in relation to organizational fairness perceptions.
+</p>
+</details>
+
 
 
 ---
