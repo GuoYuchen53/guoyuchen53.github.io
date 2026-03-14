@@ -113,7 +113,7 @@ concentrate on goods and construction projects procurement, high-value contracts
 ## Working Papers
 
 
-["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson] (https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
 *PNAS*, R&R  
 <details>
 <summary><u>Abstract</u></summary> 
