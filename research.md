@@ -4,43 +4,41 @@ layout: research
 
 ## Publications
 
-["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/ksa771xhunf6ympnx9tzb/MicroMoments.pdf?rlkey=x0y3dreuok36z44581lb87cyk&e=1&st=tn0qvsce&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
-*Accepted, Economics Letters*
+**The Digital Economy （Digital Governance） under Big Data Applications**
+
+["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and [Yadi Liu].
+*PNAS Nexus*, 2025
 <details>
 <summary><u>Abstract</u></summary> 
-<p> This paper derives identification conditions for BLP (Berry, Levinsohn, & Pakes, 1995)-style differentiated products demand models with micro moments from consumer panel data in a setting with i.i.d. logit shocks. Identification leverages cross-period dependence of unobserved preference heterogeneity. Identification conditions are also provided for models with nonparametrically specified random coefficients. Monte Carlo simulation studies demonstrate satisfactory finite sample performance.
+<p> Digital public security systems in cities, such as surveillance cameras, can record illegal behavior and deter crime, thereby enhancing residents’ perceptions of safety. However, the impact of public surveillance cameras on residents’ safety perceptions in urban environments remains insufficiently understood, especially at the national level. Drawing on a novel dataset from Chinese government procurement records on surveillance cameras (2013–2017) and a representative national household survey, we find that a 10% increase in per capita camera expenditure results in a 0.2-unit increase in residents’ perceived safety. Notably, this effect is observed only among local residents. For migrants, surveillance cameras improve perceived safety only when complemented by social ties, with neighborhood ties being more effective than distant ones in shaping these perceptions. Furthermore, the effectiveness of surveillance cameras on migrants’ perceived safety is moderated by weather conditions and the inclusiveness of the urban environment. Our findings highlight that while public security technology can improve residents’ safety perceptions, human-centered development remains essential for sustainable urban governance.
 </p>
 </details>
 
 
-["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-*Accepted, The Stata Journal*.
+["Local Governments and the Diffusion of Video Surveillance in China: Evidence from the Public Procurement Contracts",](https://www.dropbox.com/scl/fi/2gqbfmu5a6xdpz9efhayy/Journal-of-Chinese-Political-Science.pdf?rlkey=i3p3aaf5lt70dey7jvqq8jg7g&st=xfzdhsbg&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Xijie Li].   
+*Journal of Chinese Political Science*, 2025
 <details>
 <summary><u>Abstract</u></summary> 
-<p> In this article, we introduce the Stata package trigmm. The trigmm command performs an estimation for the parameters of a triangular two equation system without instruments and reports standard errors. The method is based on Lewbel, Schennach, and Zhang
-(Journal of Business & Economic Statistics, forthcoming), who have proposed sufficient
-conditions for identification and derived associated moment conditions. The estimation is conducted by casting the moment conditions into the built-in Stata command gmm. The usage of package trigmm is illustrated with simulated data and sample commands.
+<p> China’s surveillance system has proliferated over the past two decades, but much remains unknown about it. Many researchers have studied central government surveillance, few have examined the role of local governments from a decentralized perspective. To address this gap, we use local government video surveillance procurement contracts data between 2014 and 2020 from the Chinese government procurement website, and analyze trends in the video surveillance investments of local government. We further consider the possible motivations for expanding video surveillance in localities, and fnd that directives from superior-level governments, 
+rather than public pressure or public safety incidents, are the primary drivers of variation in procurement of video surveillance technology. We further consider the 
+moderating efect of local leaders’ personal characteristics and fnd that the age and tenure of the municipal Party secretary all afect the above results. These results differ from previous research, which has focused on the central government’s planning for video surveillance and less on local implementation.
 </p>
 </details>
 
-["Assessing Sensitivity to Unconfoundedness: Estimation and Inference"](https://arxiv.org/abs/2012.15716) [[Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)], with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/).      
-*Journal of Business & Economic Statistics*, 2024, 42(1), pp. 1-13.
-
-*   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
-
+["公共安全基础设施建设与居民服务消费"](https://www.dropbox.com/scl/fi/dmm2rio56yrb4zq2vdhvj/_-1.pdf?rlkey=dnk6hjjdsj5pp52bqepkry0nv&st=vfw7h887&dl=0), with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Yichuan Zhang].      
+*世界经济*, 2025.
 <details>
 <summary><u>Abstract</u></summary> 
-<p> This paper provides a set of methods for quantifying the robustness of treatment effects estimated using the unconfoundedness assumption (also known as selection on observables or conditional independence). Specifically, we estimate and do inference on bounds on various treatment effect parameters, like the average treatment effect (ATE) and the average effect of treatment on the treated (ATT), under nonparametric relaxations of the unconfoundedness assumption indexed by a scalar sensitivity parameter c. These relaxations allow for limited selection on unobservables, depending on the value of c. For large enough c, these bounds equal the no assumptions bounds. Using a non-standard bootstrap method, we show how to construct confidence bands for these bound functions which are uniform over all values of c. We illustrate these methods with an empirical application to effects of the National Supported Work Demonstration program. We implement these methods in a companion Stata module for easy use in practice.
+<p> The integration of digital technologies into public safety governance has become an important pathway for modernizing the national security system and governance capacity, as well as for maintaining national security and social stability. This paper employs a semi-supervised deep learning algorithm to collect and compile procurement announcements for video surveillance systems issued by prefecture-level city governments in China. These data are matched with four waves of the China Family Panel Studies (CFPS) from 2014 to 2020 to examine the impact of digital public safety infrastructure on household service consumption.The results show that a higher density of public video surveillance equipment is associated with greater household expenditure on services. This finding is further supported by an instrumental variable approach that exploits the historical distribution of core technologies underlying video surveillance systems. The underlying mechanism operates through improved public security: the deployment of video surveillance reduces both economic and violent crimes and strengthens property rights protection. These improvements, in turn, increase the number of service-sector establishments on the supply side, enhance residents’ perceived sense of safety on the demand side, and stimulate nighttime economic activities. This study provides theoretical support for the deployment of public video surveillance systems and offers policy implications for crime prevention, property rights protection, and the improvement of household consumption decisions.
 </p>
 </details>
 
-["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1XRAr9GDSg4ErfNVKHLHHbVtAsoKILQBI/view) with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-*Journal of Business & Economic Statistics*, 2024, 42(1), pp. 14-25.
-<details>
-<summary><u>Abstract</u></summary> 
-<p> We show that a standard linear triangular two equation system can be point identified, without the use of instruments or any other side information. We find that the only case where the model is not point identified is when a latent variable that causes endogeneity is normally distributed. In this non-identified case, we derive the sharp identified set. We apply our results to Acemoglu and Johnson’s (2007) model of life expectancy and GDP, obtaining point identification and comparable estimates to theirs, without using their (or any other) instrument.
-</p>
-</details>
+["Identification of a Triangular Two Equation System Without Instruments",](https://www.dropbox.com/scl/fi/jiex4tfgpvmj6y4asmjmj/_.pdf?rlkey=0d60c2vmdiajbvjf1pjbeie5y&st=90n6v5lt&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Chenglin Li].   
+*经济理论与经济管理*, 2025.
+
+["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Yulan Zhao].   
+*复旦公共行政评论*, 2025.
+
 
 
 ---
