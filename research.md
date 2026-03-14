@@ -51,7 +51,7 @@ concentrate on goods and construction projects procurement, high-value contracts
 </details>
 
 ["社会与政府协同推动政府采购质量提升——基于政府采购协会成立的视角",] with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
-*经济学（季刊）*, 录用
+*经济学（季刊）*, Accepted
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Effective government–society interactions can improve the quality of public spending. Using more than 13 million government procurement announcements from the China Government Procurement Network, this paper examines the impact of the establishment of government procurement associations on procurement quality. We find that the formation of such associations significantly improves the quality of government procurement. This effect is more pronounced in regions with weaker social capital and lower fiscal transparency. The mechanism analysis shows that procurement associations enhance procurement quality by establishing industry standards that reduce irregularities and by facilitating communication and information coordination between buyers and suppliers. In addition, procurement associations significantly increase market competition and promote cross-regional procurement. These effects contribute to the integration of procurement markets and support the development of a unified national market.
@@ -112,8 +112,8 @@ concentrate on goods and construction projects procurement, high-value contracts
 ## Working Papers
 
 
-["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)].   
-Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometrics Class of 2024 Conference   
+["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419) with [Matthew O. Jackson] (https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+*Frontiers in Behavioral Neuroscience*, 2020  
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
