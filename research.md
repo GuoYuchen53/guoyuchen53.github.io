@@ -5,7 +5,7 @@ layout: research
 ## Publications
 
 ### The Digital Economy （Digital Governance） under Big Data Applications
-<br><br>
+
 ["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and Yadi Liu.
 *PNAS Nexus*, 2025
 <details>
