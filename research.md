@@ -6,6 +6,15 @@ layout: research
 
 ### The Digital Economy （Digital Governance） under Big Data Applications
 
+["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+*PNAS*, Accepted 
+<details>
+<summary><u>Abstract</u></summary> 
+<p> Do social networks and peer influence shape major life decisions in highly polarized settings? We explore this question by examining how peers influenced the allegiances of West Point cadets during the American Civil War. Leveraging quasi-random variations in the proportion of cadets from Free States, we analyze how these differences affected decisions about which army to join. We find that a higher proportion of classmates from Free States significantly increased the likelihood that cadets from Slave States joined the Union Army, while almost all cadets from Free States joined the Union Army (if they decided to join the war). We further examine how cadets’ decisions affected their military rank and career outcomes. Our findings highlight that peers still influence choices even when they are life-altering and occur during periods of extreme polarization.  
+</p>
+</details>
+
+
 ["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and Yadi Liu.
 *PNAS Nexus*, 2025
 <details>
@@ -113,16 +122,6 @@ concentrate on goods and construction projects procurement, high-value contracts
 ---
 ## Working Papers
 
-
-["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
-*PNAS*, R&R  
-<details>
-<summary><u>Abstract</u></summary> 
-<p> Do social networks and peer influence shape major life decisions in highly polarized settings? We explore this question by examining how peers influenced the allegiances of West Point cadets during the American Civil War. Leveraging quasi-random variations in the proportion of cadets from Free States, we analyze how these differences affected decisions about which army to join. We find that a higher proportion of classmates from Free States significantly increased the likelihood that cadets from Slave States joined the Union Army, while almost all cadets from Free States joined the Union Army (if they decided to join the war). We further examine how cadets’ decisions affected their military rank and career outcomes. Our findings highlight that peers still influence choices even when they are life-altering and occur during periods of extreme polarization.  
-</p>
-</details>
- 
-
 "Why Are There So Many Surveillance Cameras in China: Revenue Motivation Behind Law Enforcement", with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Chenglin Li.   
 <details>
 <summary><u>Abstract</u></summary> 
@@ -141,6 +140,8 @@ revenues, more driver petitions, and reduced activity in related industries, wit
 </p>
 </details>
 
+"Departure from the Dust", with Hai Hong and Wentong Sun
+
 
 <!-- "Demand Estimation without Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
 <details>
@@ -148,6 +149,8 @@ revenues, more driver petitions, and reduced activity in related industries, wit
 <p> The BLP model is the workhorse framework in empirical IO and enables estimation of demand models for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unobserved. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive sharp identified sets for structural parameters and equilibrium objects. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and equilibrium objects.
 </p>
 </details> -->
+
+
 
 ---
 
