@@ -17,7 +17,7 @@ layout: default
 Hi, this is Yuchen Guo. I am an Postdoctoral Fellow, Collaborating Mentor: [**Ruixue Jia (UCSD)**](https://www.ruixuejia.com/), [**Ying Bai (CUHK)**](https://yingbai.org/)
 CUHK-UC San Diego Joint Laboratory on Chinese Economy; Department of Economics, Chinese University of Hong Kong. 
 
-My research interests are in **Digital Economics**, **Historical Economics** and **Political Economics**. My work focuses on the use of **big data in economic research**, with a particular emphasis on large-scale text and image data.
+My research interests are in **Digital Economics**, **Historical Economics** and **Political Economy**. My work focuses on the use of **big data in economic research**, with a particular emphasis on large-scale text and image data.
 
 **Education**  
 Nov.2023-Nov.2024
