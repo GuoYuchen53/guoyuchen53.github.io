@@ -6,8 +6,8 @@ layout: research
 
 ### The Digital Economy （Digital Governance） under Big Data Applications
 
-["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
-*PNAS* (Proceedings of the National Academy of Sciences), Accepted 
+["Peer Influence on West Point Cadets' Civil War Allegiances"]([https://arxiv.org/abs/2507.09419](https://www.dropbox.com/scl/fi/dw26jv6jsklzjvi15znvx/guo-et-al-2026-peer-influence-on-west-point-cadets-civil-war-allegiances.pdf?rlkey=dv7oxilbjwnl1e5aykf9kbh5b&st=760kqftq&dl=0)), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+*PNAS* (Proceedings of the National Academy of Sciences), 2026 
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Do social networks and peer influence shape major life decisions in highly polarized settings? We explore this question by examining how peers influenced the allegiances of West Point cadets during the American Civil War. Leveraging quasi-random variations in the proportion of cadets from Free States, we analyze how these differences affected decisions about which army to join. We find that a higher proportion of classmates from Free States significantly increased the likelihood that cadets from Slave States joined the Union Army, while almost all cadets from Free States joined the Union Army (if they decided to join the war). We further examine how cadets’ decisions affected their military rank and career outcomes. Our findings highlight that peers still influence choices even when they are life-altering and occur during periods of extreme polarization.  
