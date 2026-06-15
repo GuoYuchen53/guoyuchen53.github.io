@@ -6,7 +6,7 @@ layout: research
 
 ### The Digital Economy （Digital Governance） under Big Data Applications
 
-["Peer Influence on West Point Cadets' Civil War Allegiances"]([https://arxiv.org/abs/2507.09419](https://www.dropbox.com/scl/fi/dw26jv6jsklzjvi15znvx/guo-et-al-2026-peer-influence-on-west-point-cadets-civil-war-allegiances.pdf?rlkey=dv7oxilbjwnl1e5aykf9kbh5b&st=760kqftq&dl=0)), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+["Peer Influence on West Point Cadets' Civil War Allegiances"](https://www.dropbox.com/scl/fi/dw26jv6jsklzjvi15znvx/guo-et-al-2026-peer-influence-on-west-point-cadets-civil-war-allegiances.pdf?rlkey=dv7oxilbjwnl1e5aykf9kbh5b&st=0b01t3u7&dl=0), with [Matthew O. Jackson](https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
 *PNAS* (Proceedings of the National Academy of Sciences), 2026 
 <details>
 <summary><u>Abstract</u></summary> 
